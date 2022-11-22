@@ -154,7 +154,7 @@ This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-Jek
 scroll enabled when page is narrow
 
 | Fruits | num (left align) | num (right align) | num  | num  | num  |
-| ------ | :--------------- | ----------------: | ---- | ---- | ---- |
+| ------ | :--------------- | ----------------: | ---- | ---- |------|
 | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 |
 | Banana | 111              |               111 | 222  | 333  | 444  |
 | Orange | 11               |                11 | 22   | 33   | 44   |
