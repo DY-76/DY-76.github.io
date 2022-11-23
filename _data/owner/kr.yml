@@ -5,7 +5,7 @@
 brand: "DYAI"
 
 # text below the brand name
-brand_sub_text: "$site_sample"
+brand_sub_text: "AI 전문가를 꿈꾸는 학생의 블로그 입니다."
 
 # used for seo meta post author (if it's not defined in post)
 name: "Lee dongYub"
@@ -19,7 +19,7 @@ home:
 
 # about page sub title
 about:
-  sub_title: "A"
+  sub_title: "작은 부분이라도 세상에 기여하기"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -48,7 +48,7 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
+  github: "https://github.com/DY-76"
   #- email: ""
   #- linkedin: ""
   #- twitter: ""
