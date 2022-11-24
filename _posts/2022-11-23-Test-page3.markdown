@@ -1,26 +1,26 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: 20221124_life1
-title: test
+lng_pair: study_pj
+title: test post
 
-# ~~~~post specific
+# post specific
 # if not specified, .name will be used from _data/owner/[language].yml
-author:
+#author: ""
 # multiple category is not supported
-category: life~~~~
+category: auto generated
 # multiple tag entries are possible
-tags: [example post]
+tags: [study, test]
 # thumbnail image for post
-img: ":life\paper_unicon.jpg"
+img: ":post_pic1.jpg"
 # disable comments on this page
-#comments_disable: true
+comments_disable: true
 
 # publish date
-date: 2022-11-24 18:49:00 +0900
+date: 2021-08-10 11:32:53 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2022-11-24 18:49:00 +0900
+#meta_modify_date: 2021-08-10 11:32:53 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 
@@ -37,13 +37,14 @@ date: 2022-11-24 18:49:00 +0900
 #published: false
 ---
 
+{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+
+{%- include util/auto-content-generator.liquid -%}
+
 <!-- outline-start -->
 
-종이접기로 유니콘을 접어보았다.
+{{ website_info_text_first }}
 
 <!-- outline-end -->
 
-### 직접 접은 유니콘
-![such a lovely place](:life\paper_unicon.jpg){:data-align="center"}
-
-참 재미있었다.
+{{ website_info_text_second }}
