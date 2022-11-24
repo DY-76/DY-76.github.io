@@ -128,6 +128,30 @@ post-list:
       # you can use these wildcards, {property} {value} {thumb}
       resultFoundTitleFormat: "{property} : {thumb}"
 
+# for post-list layout 2
+#post-list:
+#  title: Blog2
+#  button_name: Blog2
+#  upside_down_tabs:
+#    tab:
+#      all: All
+#      categories: Categories
+#      tags: Tags
+#      years: Years
+#      clear: Clear
+#      close: Close
+#      tooltip:
+#        clear: Clear
+#        close: Close
+#    msg:
+#      property_list:
+#        # keys need to match with /query/post-query.json
+#        tags: Tag
+#        category: Category
+#        year: Year
+#      # you can use these wildcards, {property} {value} {thumb}
+#      resultFoundTitleFormat: "{property} : {thumb}"
+
 # for home layout
 home:
   title: Welcome
