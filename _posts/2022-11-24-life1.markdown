@@ -11,7 +11,7 @@ category: life
 # multiple tag entries are possible
 tags: [example post]
 # thumbnail image for post
-img: ":일상\paper_unicon.jpg"
+img: ":life\paper_unicon.jpg"
 # disable comments on this page
 #comments_disable: true
 
