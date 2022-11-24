@@ -44,6 +44,6 @@ date: 2022-11-24 18:49:00 +0900
 <!-- outline-end -->
 
 ### 직접 접은 유니콘
-![such a lovely place](:일상\paper_unicon.jpg){:data-align="center"}
+![such a lovely place](:life\paper_unicon.jpg){:data-align="center"}
 
 참 재미있었다.
