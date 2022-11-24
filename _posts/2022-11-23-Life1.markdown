@@ -7,7 +7,7 @@ title: 일상] 유니콘 종이접기
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: ""
 # multiple category is not supported
-category: auto generated
+category: life
 # multiple tag entries are possible
 tags: [life, origami, cku]
 # thumbnail image for post
