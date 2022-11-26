@@ -17,10 +17,10 @@ page_data:
       color: "gray"
     - title: "학부과정"
       type: undergraduate_pj
-      color: "#62b462"
+      color: "gray"
     - title: "석사과정"
       type: master_pj
-      color: "#2FD0ED"
+      color: "gray"
 
   list:
 
