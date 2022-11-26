@@ -58,11 +58,13 @@ Machine Learning, Deep Learning, Education, Human-Computer Interaction
 
 ### Skills
 
-| Language | C, R, Python, JS |
-| --- | --- |
-| Version Control | Git (GitHub) |
-| Database | Mysql, Maria DB |
-| ETC… | Web, Linux … |
+| Category             | Skills          |
+|----------------------|-----------------|
+| **Language :**       | C, R, Python, JS |
+| **Version Control :** | Git (GitHub)    |
+| **Database :**       | Mysql, Maria DB |
+| **ETC… :**           | Web, Linux …    |
+
 
 ### Education
 
