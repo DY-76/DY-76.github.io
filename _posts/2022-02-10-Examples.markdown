@@ -7,11 +7,11 @@ title: 일상] 마라샹궈 먹음
 # if not specified, .name will be used from _data/owner/[language].yml
 author:
 # multiple category is not supported
-category: 일상
+category: life
 # multiple tag entries are possible
-tags: [jekyll, sample, example post]
+tags: [food]
 # thumbnail image for post
-img: ":post_pic1.jpg"
+img: ":life_pic1.jpg"
 # disable comments on this page
 #comments_disable: true
 
