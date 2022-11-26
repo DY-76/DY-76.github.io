@@ -13,7 +13,7 @@ name: "Lee dongYub"
 # home page top header texts
 home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
-  top_header_line1: "$site_welcome"
+  top_header_line1: ""
   # if commented, top header will be a single line
   top_header_line2: "세상 잡다한 기록 저장소"
 
