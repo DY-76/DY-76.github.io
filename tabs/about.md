@@ -38,7 +38,34 @@ img: ":about.jpg"
 
 {{ website_info_text_second }}
 
-aaaatest123213
-dsfdsf
+### 안녕하세요!
 
-dfsdfds
+AI 전문가를 꿈꾸는 학생 초보 블로거, **DYAI** 입니다.
+
+공부 or 개발을 진행하면서 기록해두고 싶은 것들, 일상의 소소한 팁 등을 저장하고 싶어
+
+블로그를 시작했습니다.
+
+제 블로그에 있는 내용 중, 틀린 부분이나 개선 사항의 **피드백**은 언제든 **환영**입니다!
+
+질문, 문의 등 Contact은 mail로 해주시면 감사하겠습니다!
+
+---
+
+### Interests
+
+Machine Learning, Deep Learning, Education, Human-Computer Interaction
+
+### Skills
+
+| Language | C, R, Python, JS |
+| --- | --- |
+| Version Control | Git (GitHub) |
+| Database | Mysql, Maria DB |
+| ETC… | Web, Linux … |
+
+### Education
+
+(2019~2023) CATHOLIC KWANDONG UNIVERSITY : **bachelor of education degree expected in Computer Education**
+
+(2023~now) ???
