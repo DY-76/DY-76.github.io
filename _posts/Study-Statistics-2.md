@@ -1,6 +1,6 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: Study_20230208_Statistics2
+lng_pair: 20230208_Statistics2
 title: Statistics] AI를 위한 통계학 기초 2
 
 # post specific
