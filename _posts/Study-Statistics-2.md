@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: Study_
-title: Statistics] AI를 위한 통계학 기초 1
+lng_pair: Study_20230208_Statistics2
+title: Statistics] AI를 위한 통계학 기초 2
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
