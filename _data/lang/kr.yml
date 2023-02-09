@@ -198,16 +198,16 @@ constants:
 # for cookie consent
 cookie_consent:
   privacy_policy_link_text: *privacy_policy_title
-  side_nav_setting_button_tooltip: &cookie_settings Cookie settings
+  side_nav_setting_button_tooltip: &cookie_settings 쿠키 설정
   panel_bar:
     msg: >
-      This website uses cookies to optimize site functionality.
-      It will be activated with your approval.
+      본 블로그는 기능성을 위해 쿠키를 사용하도록 제작되었습니다.
+      방문자께서는 개인 의사에 따라 쿠키 수집을 허용하거나 끌 수 있습니다.
     privacy_msg: Check $privacy_link.
     buttons:
-      accept: &accept_button Allow all
+      accept: &accept_button 전체 허용
       settings: Customize
-      deny: &deny_button Deny
+      deny: &deny_button 거부
   panel_settings:
     title: *cookie_settings
     msg: >
@@ -216,9 +216,9 @@ cookie_consent:
     privacy_msg: Check $privacy_link.
     buttons:
       accept: *accept_button
-      save: Allow selection
+      save: 선택 허용
       deny: *deny_button
-    always_active: Always active
+    always_active: 항상 허용
     consent_types:
       necessary:
         title: Strictly necessary cookies
