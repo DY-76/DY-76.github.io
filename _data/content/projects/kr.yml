@@ -23,7 +23,7 @@ page_data:
       color: "gray"
 
   list:
-
+    # personal
     - type: personal_pj
       project_name: "PPJ"
       project_excerpt: "Picture"
@@ -36,7 +36,7 @@ page_data:
 
         ![Image](:project2_thumb.jpg)
 
-    # quote
+    # undergraduate
     - type: undergraduate_pj
       project_name: "evCharger"
       project_excerpt: "William Shakespeare"
@@ -61,6 +61,34 @@ page_data:
 
     - type: undergraduate_pj
       project_name: "heartRate"
+      project_excerpt: "Albert Einstein"
+      img: ":project2_thumb.jpg"
+      img_title: "img title4"
+      date: "2021-06-08"
+      post: |
+        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+
+    # master
+    - type: master_pj
+      project_name: "LifeStyle robot"
+      project_excerpt: "Albert Einstein"
+      img: ":project2_thumb.jpg"
+      img_title: "img title4"
+      date: "2021-06-08"
+      post: |
+        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+
+    - type: master_pj
+      project_name: "AI Kiosk"
+      project_excerpt: "Albert Einstein"
+      img: ":project2_thumb.jpg"
+      img_title: "img title4"
+      date: "2021-06-08"
+      post: |
+        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+
+    - type: master_pj
+      project_name: "AI for personalized education"
       project_excerpt: "Albert Einstein"
       img: ":project2_thumb.jpg"
       img_title: "img title4"

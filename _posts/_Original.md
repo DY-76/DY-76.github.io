@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: 20230208_Statistics2
-title: Statistics] AI를 위한 통계학 기초 2
+lng_pair: Study_
+title: Statistics] AI를 위한 통계학 기초 1
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -9,7 +9,7 @@ title: Statistics] AI를 위한 통계학 기초 2
 # multiple category is not supported
 category: study
 # multiple tag entries are possible
-tags: [Statistics]
+tags: [play]
 # thumbnail image for post
 img: ":statistics_pic1.jpg"
 # disable comments on this page

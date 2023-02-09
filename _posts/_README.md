@@ -125,8 +125,6 @@ Please add link to my page or leave the "Pwrd by Mr. Green" link in the footer s
 
 Thank you!
 
-1![paper_unicon.jpg](./img/post/_README/1403f47a318a4620818c20f98c5b22a3.jpg)
-
 
 ### Other Licenses
 
