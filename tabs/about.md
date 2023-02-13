@@ -33,7 +33,6 @@ img: ":about.jpg"
 # to disable this page, simply set published: false or delete this file
 #published: false
 ---
-
 {{ website_info_text_first }}
 
 {{ website_info_text_second }}
@@ -54,20 +53,20 @@ AI 전문가를 꿈꾸는 학생 초보 블로거, **DYAI** 입니다.
 
 ### Interests
 
-Machine Learning, Deep Learning, Education, Human-Computer Interaction
+Artificial Intelligence in Education (AIED), Machine Learning (ML), Deep Learning (DL), Human-Computer Interaction (HCI)
 
 ### Skills
 
-| Category             | Skills          |
-|----------------------|-----------------|
-| **Language :**       | C, R, Python, JS |
-| **Version Control :** | Git (GitHub)    |
-| **Database :**       | Mysql, Maria DB |
-| **ETC… :**           | Web, Linux …    |
 
+| Category              | Skills           |
+| --------------------- | ---------------- |
+| **Language :**        | C, R, Python, JS |
+| **Version Control :** | Git (GitHub)     |
+| **Database :**        | Mysql, Maria DB  |
+| **ETC… :**           | Web, Linux …    |
 
 ### Education
 
-(2019~2023) CATHOLIC KWANDONG UNIVERSITY : **bachelor of education degree expected in Computer Education**
+(2019~2023) CATHOLIC KWANDONG UNIVERSITY (CKU) : **bachelor of education degree expected in Computer Education**
 
-(2023~now) ???
+(2023~now) SEOUL NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY (SEOUL TECH) : **M.S. Student, Dept. of Applied Artificial Intelligence**

@@ -5,7 +5,7 @@
 brand: "DYAI"
 
 # text below the brand name
-brand_sub_text: "학생이 꾸려나가는 블로그"
+brand_sub_text: "이것저것 블로그"
 
 # used for seo meta post author (if it's not defined in post)
 name: "Lee dongYub"
@@ -15,11 +15,11 @@ home:
   # you can also use $site_brand, $site_greetings, $site_welcome in line1 and line2 for replacing texts.
   top_header_line1: ""
   # if commented, top header will be a single line
-  top_header_line2: "세상 잡다한 기록 저장소"
+  top_header_line2: ""
 
 # about page sub title
 about:
-  sub_title: "공부 정리, 개발, 이슈 처리, 일상 등을 주로 다룹니다 :)"
+  sub_title: "공부한 내용을 정리하거나 일상, 기록하고 싶은것들을 포스팅합니다."
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
