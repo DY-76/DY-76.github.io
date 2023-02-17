@@ -25,76 +25,156 @@ page_data:
   list:
     # personal
     - type: personal_pj
-      project_name: "PPJ"
-      project_excerpt: "Picture"
+      project_name: "Personal Blog"
+      project_excerpt: "In Progress"
       img: ":project2_thumb.jpg"
-      img_title: "img title2"
-      date: "2021-04-23"
+      img_title: "img title4"
+      date: "2022-11-01"
       post: |
-        # Title
-        This is project content.
+        ### On proposal
+        {:data-align="center"}
+        학습정리, 이슈 공유를 위한 개인 블로그를 구축하는 프로젝트입니다.
+        이전에 공부했던 자료를 점점 기억하기 힘들어지고, 나만의 정리공간이 있으면 좋겠다는 생각에 블로그를 만들어보자고 생각하게 되었습니다.
 
-        ![Image](:project2_thumb.jpg)
+        ***
+        ### In progress
+        {:data-align="center"}
+        여러 플랫폼을 고민하던 중 새로운 경험을 위해 Github Blog로 선정하여 개발하고 있습니다.
+
+        ***
+        ### Done
+        {:data-align="center"}
+
+        ***
+        ### Note
+        -
 
     # undergraduate
     - type: undergraduate_pj
       project_name: "evCharger"
-      project_excerpt: "William Shakespeare"
+      project_excerpt: "Done"
       #img: ":project1_thumb.jpg"
       #img_title: "img title3"
       date: "2021-05-27"
       post: |
-        Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
+        ### On proposal
+        {:data-align="center"}
+        -
+
+        ***
+        ### In progress
+        {:data-align="center"}
+        -
+
+        ***
+        ### Done
+        {:data-align="center"}
+        -
+
+        ***
+        ### Note
+        -
 
     - type: undergraduate_pj
       project_name: "heartRate"
-      project_excerpt: "Albert Einstein"
+      project_excerpt: "Done"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
       date: "2021-06-08"
       post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+        ### On proposal
+        {:data-align="center"}
+        -
+
+        ***
+        ### In progress
+        {:data-align="center"}
+        -
+
+        ***
+        ### Done
+        {:data-align="center"}
+        -
+
+        ***
+        ### Note
+        -
 
     # master
     - type: master_pj
       project_name: "LifeStyle robot"
-      project_excerpt: "Albert Einstein"
+      project_excerpt: "On Proposal"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
       date: "2021-06-08"
       post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+        ### On proposal
+        {:data-align="center"}
+        -
+
+        ***
+        ### In progress
+        {:data-align="center"}
+        -
+
+        ***
+        ### Done
+        {:data-align="center"}
+        -
+
+        ***
+        ### Note
+        -
 
     - type: master_pj
       project_name: "AI Kiosk"
-      project_excerpt: "Albert Einstein"
+      project_excerpt: "On Proposal"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
       date: "2021-06-08"
       post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+        ### On proposal
+        {:data-align="center"}
+        -
+
+        ***
+        ### In progress
+        {:data-align="center"}
+        -
+
+        ***
+        ### Done
+        {:data-align="center"}
+        -
+
+        ***
+        ### Note
+        -
 
     - type: master_pj
       project_name: "AI for personalized education"
-      project_excerpt: "Albert Einstein"
+      project_excerpt: "On Proposal"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
       date: "2021-06-08"
       post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
+        ### On proposal
+        {:data-align="center"}
+        -
+
+        ***
+        ### In progress
+        {:data-align="center"}
+        -
+
+        ***
+        ### Done
+        {:data-align="center"}
+        -
+
+        ***
+        ### Note
+        -
 
     # example
     - type: personal_pj
@@ -106,7 +186,7 @@ page_data:
       post: |
         # Examples
 
-        This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+        Contents
 
         ### Headings (centered)
         {:data-align="center"}
@@ -129,20 +209,11 @@ page_data:
 
         #### Paragraph
 
-        **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
+        **Paragraph**, Contents1
+        Contents1;
+        Contents1,
+        Contents1.
+
 
         #### Texts
 
@@ -156,24 +227,14 @@ page_data:
 
         #### Blockquote
 
-        > **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
+        > **Blockquote**, Contents2
+        Contents2;
+        Contents2,
+        Contents2.
 
         ### Link
 
-        This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
+        This is [DY-76's](https://dy-76.github.io/) Blog Link.
 
         ### Picture
 
@@ -191,11 +252,11 @@ page_data:
 
         1. Fruits
             1. Apples
-                - Granny Smith
-                - Mutsu
+                - Apple Juice
+                - Apple Pie
             1. Bananas
-                - Cavendish
-                - Red
+                - Banana Cake
+                - Banana Milk
         1. Vegetables
 
         ***
