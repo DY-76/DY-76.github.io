@@ -1,6 +1,6 @@
 ---
 # fileNaming : yyyy-MM-dd-[category]-title+num
-# ex : 2023-02-00-study-Statistics0
+# ex : 2023-00-00-study-Statistics0
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: Study_
 title: Statistics] AI를 위한 통계학 기초 1
