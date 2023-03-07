@@ -102,7 +102,7 @@ page_data:
 
     # master
     - type: master_pj
-      project_name: "Future-Driven Design: Module-Replaceable Household Robots and Intelligent Assistance Services for a Connected Lifestyle"
+      project_name: "Future-Driven Household Robots and Intelligent Assistance Services for Lifestyle"
       project_excerpt: "On Proposal"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
