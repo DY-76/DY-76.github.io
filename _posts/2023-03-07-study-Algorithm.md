@@ -41,10 +41,12 @@ date: 2023-03-07 09:00:00 +0900
 
 - **교착 상태 (Dead lock)**
   - 둘 이상의 프로세스가 다른 프로세스가 점유하고 있는 자원을 서로 기다릴 때 **무한 대기**에 빠지는 상황
-
-Ex) A,B = 프로세스(Process) | 노트, 연필 = 자원(공유자원, Shared Resource)
+  Ex)
+  A,B = 프로세스(Process)
+  노트, 연필 = 자원(공유자원, Shared Resource)
 
   ![Untitled](:contents/2023-03-07-study/deadLockex.png)
+
 
 - **임계 영역 (Critical Section)**
   - 공유자원(Ex. 연필, 노트)에서 문제가 발생하지 않게 독점을 보장해줘야 하는 영역
@@ -52,6 +54,7 @@ Ex) A,B = 프로세스(Process) | 노트, 연필 = 자원(공유자원, Shared R
 (위 예시에서는 노트필기)
 
   ![Untitled](:contents/2023-03-07-study/criticalSectionex.png)
+
 
 - **임계 영역의 해결방안**
   - **상호 배제 :** 한 프로세스가 임계 영역에 들어갔을 때 다른 프로세스는 들어가지 마!
@@ -63,6 +66,7 @@ Ex) A,B = 프로세스(Process) | 노트, 연필 = 자원(공유자원, Shared R
 **Then, What is Peterson’s algorithm?**
 
 ![Untitled](:contents/2023-03-07-study/PetersonRule.png)
+
 
 <!-- outline-end -->
 
