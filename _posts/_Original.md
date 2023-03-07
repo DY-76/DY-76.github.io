@@ -9,7 +9,7 @@ title: Statistics] AI를 위한 통계학 기초 1
 # multiple category is not supported
 category: study
 # multiple tag entries are possible
-tags: [play]
+tags: [play, statistics]
 # thumbnail image for post
 img: ":statistics_pic1.jpg"
 # disable comments on this page
