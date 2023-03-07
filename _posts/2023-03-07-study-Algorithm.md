@@ -45,15 +45,16 @@ date: 2023-03-07 09:00:00 +0900
   A,B = 프로세스(Process)
   노트, 연필 = 자원(공유자원, Shared Resource)
 
-  ![Untitled](:contents/2023-03-07-study/deadLockex.png)<br>
-
+  ![Untitled](:contents/2023-03-07-study/deadLockex.png)
+  <br>
+-
 - **임계 영역 (Critical Section)**
   - 공유자원(Ex. 연필, 노트)에서 문제가 발생하지 않게 독점을 보장해줘야 하는 영역
 
 (위 예시에서는 노트필기)
 
-  ![Untitled](:contents/2023-03-07-study/criticalSectionex.png)<br>
-
+  ![Untitled](:contents/2023-03-07-study/criticalSectionex.png)
+  <br>
 
 - **임계 영역의 해결방안**
   - **상호 배제 :** 한 프로세스가 임계 영역에 들어갔을 때 다른 프로세스는 들어가지 마!
@@ -64,7 +65,8 @@ date: 2023-03-07 09:00:00 +0900
 
 **Then, What is Peterson’s algorithm?**
 
-![Untitled](:contents/2023-03-07-study/PetersonRule.png)<br>
+![Untitled](:contents/2023-03-07-study/PetersonRule.png)
+<br>
 
 <br>
 `To be Updated...`
