@@ -62,7 +62,8 @@ page_data:
       date: "2019-06-01"
       post: |
         #### [학과 동아리] Include
-        * president
+        {:data-align="center"}
+        president
         {:data-align="center"}
 
         ***
@@ -93,7 +94,8 @@ page_data:
       date: "2021-05-01"
       post: |
         #### [창업 동아리] 시나브로
-        * CEO, president
+        {:data-align="center"}
+        CEO, president
         {:data-align="center"}
 
         ***
@@ -124,7 +126,8 @@ page_data:
       date: "2021-08-01"
       post: |
         #### [철도기술연구원] TROSAR 개발 방법론 연구
-        * Undergraduate Research Assistant
+        {:data-align="center"}
+        Undergraduate Research Assistant
         {:data-align="center"}
 
         ***
@@ -155,7 +158,8 @@ page_data:
       date: "2022-01-01"
       post: |
         #### [창업 동아리] Puzzle Block
-        * PM, Project Manager
+        {:data-align="center"}
+        PM, Project Manager
         {:data-align="center"}
 
         ***
@@ -186,7 +190,8 @@ page_data:
       date: "2022-02-01"
       post: |
         #### 전기차 충전소 입지선정 알고리즘 연구
-        * Undergraduate Research Assistant
+        {:data-align="center"}
+        Undergraduate Research Assistant
         {:data-align="center"}
 
         ***
@@ -218,7 +223,8 @@ page_data:
       date: "2023-05-01"
       post: |
         #### [서울시교육청교육연구정보원] 스마트기기 휴대 학습 디벗 관련 학교 운용·관리 다양성 조사연구
-        * Research Assistant
+        {:data-align="center"}
+        Research Assistant
         {:data-align="center"}
 
         ***
@@ -249,7 +255,8 @@ page_data:
       date: "2023-06-01"
       post: |
         #### [LINC 3.0] XAI for student competency measurement & educational consulting
-        * graduate Researcher
+        {:data-align="center"}
+        graduate Researcher
         {:data-align="center"}
 
         ***
@@ -280,7 +287,8 @@ page_data:
       date: "2023-07-01"
       post: |
         #### [국제공동연구] Development of AI Analytics-Generation-Coaching Copilot Technology for Augmented Teachers’ Competency-Customized Education
-        * graduate Researcher
+        {:data-align="center"}
+        graduate Researcher
         {:data-align="center"}
 
         ***
