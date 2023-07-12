@@ -69,17 +69,19 @@ page_data:
         ***
         ### On proposal
         {:data-align="center"}
-        -
+        학부 전공 과목의 스터디와 다양한 프로젝트 경험 향상을 위해 동아리를 창설하고 운영함
+        교내 임용 정보 공유 플랫폼 개발을 진행함
 
         ***
         ### In progress
         {:data-align="center"}
-        -
+        C, python, arduino 스터디를 진행하고 다양한 전공과목 튜터링을 통한 성적 향상을 달성함
 
         ***
         ### Done
         {:data-align="center"}
-        -
+        * 2019년도 학술제 사범대학 과동아리 대회 우수상 수상
+        * 2021년도 학과동아리 경진대회 우수상 수상
 
         ***
         ### Note
@@ -93,7 +95,7 @@ page_data:
       img_title: "img title4"
       date: "2021-05-01"
       post: |
-        #### [창업 동아리] 시나브로
+        #### [Start-up club] 시나브로
         {:data-align="center"}
         CEO, president
         {:data-align="center"}
@@ -101,12 +103,13 @@ page_data:
         ***
         ### On proposal
         {:data-align="center"}
-        -
+        예비교원, 교사의 수업 콘텐츠 확보 및 정보 커뮤니티 개발을 목표로 2021년 초기창업패키지 Start-Up Club을 창설하여 활동을 진행함
 
         ***
         ### In progress
         {:data-align="center"}
-        -
+        시장조사 및 분석과 Business Model(BM)에 대한 개발과 발표 경험을 얻을 수 있었음
+        500만원 가량의 예산 운용 경험을 얻을 수 있었음
 
         ***
         ### Done
@@ -127,7 +130,7 @@ page_data:
       post: |
         #### [철도기술연구원] TROSAR 개발 방법론 연구
         {:data-align="center"}
-        Undergraduate Research Assistant
+        (MILAB) Undergraduate Research Assistant
         {:data-align="center"}
 
         ***
@@ -157,7 +160,7 @@ page_data:
       img_title: "img title4"
       date: "2022-01-01"
       post: |
-        #### [창업 동아리] Puzzle Block
+        #### [Start-up club] Puzzle Block
         {:data-align="center"}
         PM, Project Manager
         {:data-align="center"}
@@ -191,23 +194,25 @@ page_data:
       post: |
         #### 전기차 충전소 입지선정 알고리즘 연구
         {:data-align="center"}
-        Undergraduate Research Assistant
+        (MILAB) Undergraduate Research Assistant
         {:data-align="center"}
 
         ***
         ### On proposal
         {:data-align="center"}
-        -
+        확대되고있는 전기차 시장에서 공공데이터 속 도로 트래픽, 지역별 특징을 반영하여 최적의 충전소 입지를 선정할 수 있는 알고리즘을 개발하고자 함
 
         ***
         ### In progress
         {:data-align="center"}
-        -
+        공공데이터의 탐색 및 분석과 API를 활용함
+        Pandas 기반의 데이터 분석을 수행하여 유의미한 결론을 도출함
 
         ***
         ### Done
         {:data-align="center"}
-        DOI : [10.47116/apjcri.2023.05.10] (http://doi.org/10.47116/apjcri.2023.05.10)
+        * 연구 중 분석한 데이터를 바탕으로 *학습 데이터 구축에 필요한 공공 데이터 정제 사례*에 관한 paper를 작성하여 KCI 등재
+          * DOI : [10.47116/apjcri.2023.05.10](http://doi.org/10.47116/apjcri.2023.05.10)
 
         ***
         ### Note
@@ -224,7 +229,7 @@ page_data:
       post: |
         #### [서울시교육청교육연구정보원] 스마트기기 휴대 학습 디벗 관련 학교 운용·관리 다양성 조사연구
         {:data-align="center"}
-        Research Assistant
+        (HAILAB) Research Assistant
         {:data-align="center"}
 
         ***
@@ -256,13 +261,13 @@ page_data:
       post: |
         #### [LINC 3.0] XAI for student competency measurement & educational consulting
         {:data-align="center"}
-        graduate Researcher
+        (HAILAB) graduate Researcher
         {:data-align="center"}
 
         ***
         ### On proposal
         {:data-align="center"}
-        -
+        참여기업 (주)이엑스디랩스와 함께 진행한 산학공동연구로 단시간 내에 Student competency measurement 및 Generative AI 기반 explainable AI(XAI)를 개발하고자 함
 
         ***
         ### In progress
@@ -288,7 +293,7 @@ page_data:
       post: |
         #### [국제공동연구] Development of AI Analytics-Generation-Coaching Copilot Technology for Augmented Teachers’ Competency-Customized Education
         {:data-align="center"}
-        graduate Researcher
+        (HAILAB) graduate Researcher
         {:data-align="center"}
 
         ***
