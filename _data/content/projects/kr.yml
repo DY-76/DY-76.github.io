@@ -70,12 +70,12 @@ page_data:
         ### On proposal
         {:data-align="center"}
         학부 전공 과목의 스터디와 다양한 프로젝트 경험 향상을 위해 동아리를 창설하고 운영함
-        교내 임용 정보 공유 플랫폼 개발을 진행함
 
         ***
         ### In progress
         {:data-align="center"}
-        C, python, arduino 스터디를 진행하고 다양한 전공과목 튜터링을 통한 성적 향상을 달성함
+        * C, python, arduino 스터디를 진행하고 다양한 전공과목 튜터링을 통한 성적 향상을 달성함
+        * 교내 임용 정보 공유 플랫폼 개발을 진행함
 
         ***
         ### Done
@@ -89,13 +89,13 @@ page_data:
 
 
     - type: undergraduate_pj
-      project_name: "시나브로 (Sinabro)"
+      project_name: "ETTA 시나브로 (Sinabro)"
       project_excerpt: "Done"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
       date: "2021-05-01"
       post: |
-        #### [Start-up club] 시나브로
+        #### [Start-up club] ETTA 시나브로
         {:data-align="center"}
         CEO, president
         {:data-align="center"}
@@ -108,13 +108,15 @@ page_data:
         ***
         ### In progress
         {:data-align="center"}
-        시장조사 및 분석과 Business Model(BM)에 대한 개발과 발표 경험을 얻을 수 있었음
-        500만원 가량의 예산 운용 경험을 얻을 수 있었음
+        * 시장조사 및 분석과 Business Model(BM)에 대한 개발과 발표 경험을 얻을 수 있었음
+        * 500만원 가량의 예산 운용 경험을 얻을 수 있었음
 
         ***
         ### Done
         {:data-align="center"}
-        -
+        * 2021 K-StartUP! 청년리그 본선 진출
+        * 2021 RUCK Local startup Lab 아이디어 도출 캠프 수료
+        * 2021 RUCK Local startup Lab 지역공헌상 수상
 
         ***
         ### Note
@@ -178,7 +180,7 @@ page_data:
         ***
         ### Done
         {:data-align="center"}
-        -
+        * 2022 초기창업패키지 GW 창업클럽 장려상 수상
 
         ***
         ### Note
@@ -200,13 +202,14 @@ page_data:
         ***
         ### On proposal
         {:data-align="center"}
-        확대되고있는 전기차 시장에서 공공데이터 속 도로 트래픽, 지역별 특징을 반영하여 최적의 충전소 입지를 선정할 수 있는 알고리즘을 개발하고자 함
+        확대되고있는 전기차 시장에서 공공데이터 속 도로 트래픽, 지역별 특징을 반영하여 최적의 충전소 입지를 선정할 수 있는 알고리즘을
+        개발하고자 함
 
         ***
         ### In progress
         {:data-align="center"}
-        공공데이터의 탐색 및 분석과 API를 활용함
-        Pandas 기반의 데이터 분석을 수행하여 유의미한 결론을 도출함
+        * 공공데이터의 탐색 및 분석과 API를 활용함
+        * Pandas 기반의 데이터 분석을 수행하여 유의미한 결론을 도출함
 
         ***
         ### Done
@@ -235,12 +238,14 @@ page_data:
         ***
         ### On proposal
         {:data-align="center"}
-        -
+        서울특별시 교육청의 디지털교과서 사업 디벗의 학교 운용-관리 현황 및 시사점 도출을 위해 자료수집, 인터뷰, 설문 등을 포함한
+        조사연구를 수행하고자 함
 
         ***
         ### In progress
         {:data-align="center"}
-        -
+        * 해외 디지털교과서 및 교육에서의 디지털기기 활용 사례를 수집, 분석함
+        * 교사 대상 설문을 설계하고 문항을 구성함
 
         ***
         ### Done
@@ -267,7 +272,8 @@ page_data:
         ***
         ### On proposal
         {:data-align="center"}
-        참여기업 (주)이엑스디랩스와 함께 진행한 산학공동연구로 단시간 내에 Student competency measurement 및 Generative AI 기반 explainable AI(XAI)를 개발하고자 함
+        참여기업 (주)이엑스디랩스와 함께 진행한 산학공동연구로 단시간 내에 Student competency measurement 및
+        Generative AI 기반 explainable AI(XAI)를 개발하고자 함
 
         ***
         ### In progress
@@ -299,7 +305,9 @@ page_data:
         ***
         ### On proposal
         {:data-align="center"}
-        -
+        미래 교실 속 현장교사들이 디지털교과서를 활용하거나 토론, 프로젝트 수업을 진행할 때 학생 역량을 파악하여
+        맞춤형 콘텐츠 및 코칭을 제공할 수 있는 코파일럿 기술을 개발하고 현장교실을 검증하여 증강된 교사 중심의 미래교실 혁신을
+        이루고자 함
 
         ***
         ### In progress
