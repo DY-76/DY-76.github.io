@@ -62,6 +62,7 @@ page_data:
       date: "2019-06-01"
       post: |
         #### [학과 동아리] Include
+        * president
         {:data-align="center"}
 
         ***
@@ -92,36 +93,7 @@ page_data:
       date: "2021-05-01"
       post: |
         #### [창업 동아리] 시나브로
-        {:data-align="center"}
-
-        ***
-        ### On proposal
-        {:data-align="center"}
-        -
-
-        ***
-        ### In progress
-        {:data-align="center"}
-        -
-
-        ***
-        ### Done
-        {:data-align="center"}
-        -
-
-        ***
-        ### Note
-        -
-
-
-    - type: undergraduate_pj
-      project_name: "evCharger"
-      project_excerpt: "Done"
-      img: ":project2_thumb.jpg"
-      img_title: "img title4"
-      date: "2021-05-27"
-      post: |
-        #### 전기차 충전소 입지선정 알고리즘 연구
+        * CEO, president
         {:data-align="center"}
 
         ***
@@ -152,6 +124,38 @@ page_data:
       date: "2022-01-01"
       post: |
         #### [창업 동아리] Puzzle Block
+        * PM, Project Manager
+        {:data-align="center"}
+
+        ***
+        ### On proposal
+        {:data-align="center"}
+        -
+
+        ***
+        ### In progress
+        {:data-align="center"}
+        -
+
+        ***
+        ### Done
+        {:data-align="center"}
+        -
+
+        ***
+        ### Note
+        -
+
+
+    - type: undergraduate_pj
+      project_name: "evCharger"
+      project_excerpt: "Done"
+      img: ":project2_thumb.jpg"
+      img_title: "img title4"
+      date: "2022-02-01"
+      post: |
+        #### 전기차 충전소 입지선정 알고리즘 연구
+        * Undergraduate Research Assistant
         {:data-align="center"}
 
         ***
