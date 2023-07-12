@@ -31,6 +31,10 @@ page_data:
       img_title: "img title4"
       date: "2022-11-01"
       post: |
+        #### Personal Blog
+        {:data-align="center"}
+
+        ***
         ### On proposal
         {:data-align="center"}
         학습정리, 이슈 공유를 위한 개인 블로그를 구축하는 프로젝트입니다.
@@ -51,12 +55,76 @@ page_data:
 
     # undergraduate
     - type: undergraduate_pj
+      project_name: "Include club"
+      project_excerpt: "Done"
+      img: ":project2_thumb.jpg"
+      img_title: "img title4"
+      date: "2019-06-01"
+      post: |
+        #### [학과 동아리] Include
+        {:data-align="center"}
+
+        ***
+        ### On proposal
+        {:data-align="center"}
+        -
+
+        ***
+        ### In progress
+        {:data-align="center"}
+        -
+
+        ***
+        ### Done
+        {:data-align="center"}
+        -
+
+        ***
+        ### Note
+        -
+
+
+    - type: undergraduate_pj
+      project_name: "시나브로 (Sinabro)"
+      project_excerpt: "Done"
+      img: ":project2_thumb.jpg"
+      img_title: "img title4"
+      date: "2021-05-01"
+      post: |
+        #### [창업 동아리] 시나브로
+        {:data-align="center"}
+
+        ***
+        ### On proposal
+        {:data-align="center"}
+        -
+
+        ***
+        ### In progress
+        {:data-align="center"}
+        -
+
+        ***
+        ### Done
+        {:data-align="center"}
+        -
+
+        ***
+        ### Note
+        -
+
+
+    - type: undergraduate_pj
       project_name: "evCharger"
       project_excerpt: "Done"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
       date: "2021-05-27"
       post: |
+        #### 전기차 충전소 입지선정 알고리즘 연구
+        {:data-align="center"}
+
+        ***
         ### On proposal
         {:data-align="center"}
         -
@@ -74,40 +142,50 @@ page_data:
         ***
         ### Note
         -
+
+
+    - type: undergraduate_pj
+      project_name: "Puzzle Block"
+      project_excerpt: "Done"
+      img: ":project2_thumb.jpg"
+      img_title: "img title4"
+      date: "2022-01-01"
+      post: |
+        #### [창업 동아리] Puzzle Block
+        {:data-align="center"}
+
+        ***
+        ### On proposal
+        {:data-align="center"}
+        -
+
+        ***
+        ### In progress
+        {:data-align="center"}
+        -
+
+        ***
+        ### Done
+        {:data-align="center"}
+        -
+
+        ***
+        ### Note
+        -
+
 
     # master
     - type: master_pj
-      project_name: "[국제공동] Development of AI Analytics-Generation-Coaching Copilot Technology for Augmented Teachers’ Competency-Customized Education"
+      project_name: "디벗 운용-관리 다양성 조사연구"
       project_excerpt: "In Progress"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
-      date: "2023-04-01"
+      date: "2023-05-01"
       post: |
-        ### On proposal
+        #### [서울시교육청교육연구정보원] 스마트기기 휴대 학습 디벗 관련 학교 운용·관리 다양성 조사연구
         {:data-align="center"}
-        -
 
         ***
-        ### In progress
-        {:data-align="center"}
-        -
-
-        ***
-        ### Done
-        {:data-align="center"}
-        -
-
-        ***
-        ### Note
-        -
-
-    - type: master_pj
-      project_name: ""
-      project_excerpt: "In Progress"
-      img: ":project2_thumb.jpg"
-      img_title: "img title4"
-      date: "2023-04-01"
-      post: |
         ### On proposal
         {:data-align="center"}
         -
@@ -128,12 +206,46 @@ page_data:
 
 
     - type: master_pj
-      project_name: ""
+      project_name: "XAI for measurement & consulting"
       project_excerpt: "In Progress"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
-      date: "2023-04-01"
+      date: "2023-06-01"
       post: |
+        #### [LINC 3.0] XAI for student competency measurement & educational consulting
+        {:data-align="center"}
+
+        ***
+        ### On proposal
+        {:data-align="center"}
+        -
+
+        ***
+        ### In progress
+        {:data-align="center"}
+        -
+
+        ***
+        ### Done
+        {:data-align="center"}
+        -
+
+        ***
+        ### Note
+        -
+
+
+    - type: master_pj
+      project_name: "Competency-Customized Education"
+      project_excerpt: "In Progress"
+      img: ":project2_thumb.jpg"
+      img_title: "img title4"
+      date: "2023-07-01"
+      post: |
+        #### [국제공동연구] Development of AI Analytics-Generation-Coaching Copilot Technology for Augmented Teachers’ Competency-Customized Education
+        {:data-align="center"}
+
+        ***
         ### On proposal
         {:data-align="center"}
         -
