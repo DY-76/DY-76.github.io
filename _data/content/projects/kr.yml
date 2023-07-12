@@ -75,35 +75,10 @@ page_data:
         ### Note
         -
 
-    - type: undergraduate_pj
-      project_name: "heartRate"
-      project_excerpt: "Done"
-      img: ":project2_thumb.jpg"
-      img_title: "img title4"
-      date: "2021-06-08"
-      post: |
-        ### On proposal
-        {:data-align="center"}
-        -
-
-        ***
-        ### In progress
-        {:data-align="center"}
-        -
-
-        ***
-        ### Done
-        {:data-align="center"}
-        -
-
-        ***
-        ### Note
-        -
-
     # master
     - type: master_pj
-      project_name: "Future-Driven AI Lifestyle Robots"
-      project_excerpt: "On Proposal"
+      project_name: "[국제공동] Development of AI Analytics-Generation-Coaching Copilot Technology for Augmented Teachers’ Competency-Customized Education"
+      project_excerpt: "In Progress"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
       date: "2023-04-01"
@@ -127,8 +102,8 @@ page_data:
         -
 
     - type: master_pj
-      project_name: "Barrier-free Transformation: Open SW for AI Kiosk"
-      project_excerpt: "On Proposal"
+      project_name: ""
+      project_excerpt: "In Progress"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
       date: "2023-04-01"
@@ -151,12 +126,13 @@ page_data:
         ### Note
         -
 
+
     - type: master_pj
-      project_name: "HTHT"
-      project_excerpt: "On Proposal"
+      project_name: ""
+      project_excerpt: "In Progress"
       img: ":project2_thumb.jpg"
       img_title: "img title4"
-      date: "2021-06-08"
+      date: "2023-04-01"
       post: |
         ### On proposal
         {:data-align="center"}
@@ -175,6 +151,7 @@ page_data:
         ***
         ### Note
         -
+
 
     # example
 #    - type: personal_pj
